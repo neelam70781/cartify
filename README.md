@@ -6,7 +6,7 @@ An advanced e-commerce platform built with **Next.js**, offering a modern user i
 
 ## About Me
 
-Hi! My name is Saiyam Verma. I am a passionate **Full Stack Developer** specializing in the **MERN stack** and continuously exploring new technologies like **Next.js** to build innovative applications.
+Hi! My name is Neelam Singh. I am a passionate **Full Stack Developer** specializing in the **MERN stack** and continuously exploring new technologies like **Next.js** to build innovative applications.
 
 ---
 
